@@ -1,0 +1,2722 @@
+# WORLD ORBIT
+
+## 24/7 Interactive Geopolitical War Simulation & YouTube Live Entertainment Platform
+
+**Product Type:** Real-time persistent simulation + livestream visual engine
+**Primary Format:** 9:16 vertical canvas optimized for YouTube Live/Shorts-style viewing
+**Primary Experience:** Viewers watch autonomous countries compete, ally, trade, evolve, and enter conflicts in a continuously running simulated world.
+**Primary Goal:** Maximize viewer retention through anticipation, emergent stories, visual motion, rare events, and audience participation.
+**Status:** Product Definition
+**Version:** 1.0
+**Date:** August 2026
+
+---
+
+# 1. Executive Summary
+
+WORLD ORBIT is a continuously running geopolitical simulation designed specifically to generate compelling 24/7 vertical livestream content.
+
+The core visual is a collection of national flags orbiting a glowing central world. Countries behave as autonomous entities with different levels of power, economy, diplomacy, technology, military capability, alliances, rivalries, and strategic personalities.
+
+The system continuously generates:
+
+**Diplomacy → Tension → Crisis → War → Battles → Territory Changes → Recovery → Alliances → New Conflicts**
+
+The simulation does not simply show random battles. It creates **persistent stories**.
+
+A viewer joining at any moment should immediately understand:
+
+1. Who is powerful?
+2. Who is fighting?
+3. What is about to happen?
+4. Why should I keep watching?
+
+The product should feel like a combination of:
+
+* A strategy game
+* A geopolitical visualization
+* A live sports broadcast
+* An autonomous simulation
+* A mystery generator
+* A spectator game
+* A 24/7 television channel
+
+---
+
+# 2. Product Vision
+
+## Vision
+
+Create a virtual world that is **always alive**.
+
+The viewer should feel:
+
+> "Something is happening right now."
+
+and:
+
+> "I wonder what happens next."
+
+The world should continue evolving whether there are:
+
+* 0 viewers
+* 10 viewers
+* 1,000 viewers
+* 100,000 viewers
+
+The simulation itself is the content-generation engine.
+
+---
+
+# 3. Product Philosophy
+
+WORLD ORBIT should follow five principles.
+
+## 3.1 Always Moving
+
+The screen should never feel frozen.
+
+Flags orbit.
+
+Energy pulses.
+
+Connections move.
+
+Events appear.
+
+Battlefields evolve.
+
+Statistics change.
+
+---
+
+## 3.2 Always Something to Anticipate
+
+The system should continuously create upcoming possibilities.
+
+Examples:
+
+> NEXT EVENT: 02:41
+
+> TENSION: 87%
+
+> UNKNOWN OBJECT: APPROACHING
+
+> INVASION PROBABILITY: 73%
+
+---
+
+## 3.3 Easy to Understand
+
+A viewer joining for five seconds should understand the current situation.
+
+Avoid requiring viewers to understand complex strategy-game mechanics.
+
+Visual storytelling comes first.
+
+---
+
+## 3.4 Emergent Stories
+
+Events should create consequences.
+
+A war should affect:
+
+* Economy
+* Population
+* Territory
+* Alliances
+* Military strength
+* Public morale
+* Future diplomacy
+
+---
+
+## 3.5 Rare Events Matter
+
+Most events should be normal.
+
+Occasionally something extraordinary should happen.
+
+The viewer should feel:
+
+> "I can't leave because something huge might happen."
+
+---
+
+# 4. Target Audience
+
+## Primary Audience
+
+### A. Casual YouTube Viewers
+
+People who enjoy:
+
+* Satisfying animations
+* Simulations
+* World maps
+* Strategy
+* Competition
+* Visual statistics
+
+### B. Strategy Fans
+
+People interested in:
+
+* Geopolitics
+* War games
+* Grand strategy
+* Nation simulations
+* Alternate history
+
+### C. Livestream Viewers
+
+People who enjoy:
+
+* Continuous streams
+* Chat interaction
+* Polls
+* Leaderboards
+* Community events
+
+### D. Short-form Viewers
+
+Users who discover clips generated from major simulation events.
+
+---
+
+# 5. Core User Experience
+
+The viewer enters the stream.
+
+Immediately they see:
+
+**WORLD ORBIT**
+
+A glowing Earth sits in the center.
+
+Country flags orbit around it.
+
+Some are moving normally.
+
+Two flags begin moving toward each other.
+
+The interface changes:
+
+> ⚠️ TENSION RISING
+
+A percentage appears:
+
+> 82%
+
+The audience waits.
+
+The flags collide.
+
+The screen announces:
+
+> ⚔️ WAR DECLARED
+
+A battlefield animation begins.
+
+The result changes the world.
+
+The losing country's flag becomes weaker.
+
+Its allies react.
+
+Another country sees an opportunity.
+
+A new alliance forms.
+
+The story continues.
+
+---
+
+# 6. Core Simulation Model
+
+Each country is an autonomous entity.
+
+## Country Attributes
+
+Every country has:
+
+* Country ID
+* Name
+* Flag
+* Population
+* Territory
+* GDP
+* Wealth
+* Resources
+* Military Power
+* Air Power
+* Naval Power
+* Technology
+* Industry
+* Intelligence
+* Cyber Capability
+* Morale
+* Stability
+* Diplomatic Influence
+* Reputation
+* Aggression
+* Risk Tolerance
+* Leadership Quality
+* Public Support
+* Alliances
+* Rivals
+* Active Wars
+* Historical Events
+
+---
+
+# 7. Country Personality System
+
+Countries should not behave identically.
+
+Each country receives strategic personality parameters.
+
+Example:
+
+## Aggressive
+
+High probability of:
+
+* Declaring wars
+* Expanding territory
+* Taking risks
+
+## Defensive
+
+Prefers:
+
+* Alliances
+* Fortifications
+* Defense
+* Economic development
+
+## Diplomatic
+
+Prefers:
+
+* Trade
+* Treaties
+* Alliances
+* Peace
+
+## Opportunistic
+
+Waits for:
+
+* Weak enemies
+* Collapsing alliances
+* Economic crises
+
+## Unpredictable
+
+Occasionally performs unexpected actions.
+
+This makes every simulation different.
+
+---
+
+# 8. Country Power Score
+
+The system calculates a normalized power score.
+
+Conceptually:
+
+**Power = Military + Economy + Technology + Population + Stability + Resources + Diplomacy**
+
+The exact weighting should be configurable.
+
+Example:
+
+```text
+🇺🇸 POWER 92
+██████████████████░░
+
+🇨🇳 POWER 88
+█████████████████░░░
+
+🇮🇳 POWER 79
+███████████████░░░░░
+```
+
+Power should change continuously.
+
+---
+
+# 9. Orbit System
+
+The signature visual system.
+
+Countries exist on multiple orbital rings.
+
+## Ring 1 — Superpowers
+
+Closest to the center.
+
+## Ring 2 — Major Powers
+
+Middle orbit.
+
+## Ring 3 — Regional Powers
+
+Outer-middle orbit.
+
+## Ring 4 — Small/Unstable Countries
+
+Outer orbit.
+
+A country's position is dynamic.
+
+Increasing power moves it inward.
+
+Losing power moves it outward.
+
+---
+
+# 10. Orbital Physics
+
+Flags should not rotate mechanically.
+
+Each flag has:
+
+* Orbital velocity
+* Angular acceleration
+* Bounce factor
+* Attraction force
+* Repulsion force
+* Orbit radius
+* Vertical offset
+* Random drift
+* Interaction force
+
+Movement should feel organic.
+
+### Normal State
+
+Smooth movement.
+
+### Tension State
+
+Increased movement.
+
+### Crisis State
+
+Orbit paths converge.
+
+### War State
+
+Aggressive motion.
+
+### Defeat
+
+Movement slows and flag becomes visually weaker.
+
+---
+
+# 11. Gravity System
+
+Powerful countries generate influence.
+
+Influence affects nearby countries.
+
+A powerful country can gradually attract weaker countries into:
+
+* Alliances
+* Trade relationships
+* Diplomatic blocs
+
+However, excessive influence can create resistance.
+
+Example:
+
+> 🇺🇸 INFLUENCE: 91
+
+> 🇨🇦 ALIGNMENT: 84%
+
+---
+
+# 12. Diplomacy Engine
+
+Countries maintain relationship scores.
+
+Relationship types:
+
+* Friendly
+* Neutral
+* Competitive
+* Hostile
+* Allied
+* At War
+
+Relationship score:
+
+```text
+-100 = Extreme hostility
+0  = Neutral
++100 = Strong alliance
+```
+
+Relationships evolve according to:
+
+* Trade
+* Border conflicts
+* Previous wars
+* Alliances
+* Betrayals
+* Economic dependencies
+* Military actions
+* Random diplomatic events
+
+---
+
+# 13. Tension System
+
+Tension is one of the most important retention mechanics.
+
+Each hostile relationship receives a tension score.
+
+Example:
+
+```text
+🇺🇸 🇨🇳
+
+TENSION
+
+████████████████░░░░ 82%
+```
+
+Tension increases through:
+
+* Military buildup
+* Border disputes
+* Failed negotiations
+* Sanctions
+* Espionage
+* Resource competition
+* Alliance pressure
+
+Tension decreases through:
+
+* Negotiations
+* Trade
+* Treaties
+* Leadership changes
+* Shared threats
+
+---
+
+# 14. Collision Event
+
+The signature event.
+
+When tension crosses a threshold, both flags begin leaving their normal orbits.
+
+They move toward each other.
+
+Visual sequence:
+
+### Phase 1
+
+Normal orbit.
+
+### Phase 2
+
+Flags begin drifting closer.
+
+### Phase 3
+
+Background darkens.
+
+### Phase 4
+
+Tension meter appears.
+
+### Phase 5
+
+Countdown.
+
+### Phase 6
+
+Decision.
+
+Possible outcomes:
+
+* War
+* Peace
+* Trade agreement
+* Alliance
+* Ultimatum
+* Withdrawal
+* Surprise event
+
+---
+
+# 15. War System
+
+A war is a persistent simulation state.
+
+War contains:
+
+* Attacker
+* Defender
+* War objective
+* Frontlines
+* Battles
+* Territory
+* Military strength
+* Morale
+* Supply
+* Economic impact
+* Allies
+* Duration
+
+Possible war objectives:
+
+* Territory
+* Resources
+* Strategic position
+* Revenge
+* Regime change
+* Defense
+* Alliance support
+
+---
+
+# 16. Battle System
+
+Wars generate individual battles.
+
+Example:
+
+> ⚔️ BATTLE OF RIVER GATE
+
+Battle variables:
+
+* Attacking forces
+* Defending forces
+* Terrain
+* Morale
+* Technology
+* Supply
+* Commander skill
+* Random battlefield conditions
+
+Outcomes:
+
+* Attacker victory
+* Defender victory
+* Stalemate
+* Retreat
+* Major victory
+* Catastrophic defeat
+
+---
+
+# 17. Battlefield Visualization
+
+When a major battle occurs, the main orbit temporarily transitions into a battlefield view.
+
+Example:
+
+```text
+🇺🇸                    🇨🇳
+
+██████████ ⚔️ ███████
+
+FRONTLINE
+
+███████ → → → █████
+```
+
+Small units move across the battlefield.
+
+The simulation should emphasize spectacle rather than realistic military detail.
+
+---
+
+# 18. Commander System
+
+Every major country receives one or more commanders.
+
+Commander attributes:
+
+* Aggression
+* Intelligence
+* Patience
+* Risk tolerance
+* Defensive skill
+* Offensive skill
+* Loyalty
+* Adaptability
+
+Commanders remember previous battles.
+
+Example:
+
+> GENERAL ALEX
+
+> Battles: 37
+
+> Wins: 28
+
+> Losses: 9
+
+> Current strategy: Encirclement
+
+This creates recurring characters.
+
+---
+
+# 19. Commander Rivalries
+
+Commanders can develop reputations.
+
+Example:
+
+> 🔥 GENERAL ALEX vs GENERAL RYU
+
+History:
+
+* Battle 1 — Alex victory
+* Battle 2 — Ryu victory
+* Battle 3 — Stalemate
+
+A future confrontation becomes more interesting because viewers recognize the rivalry.
+
+---
+
+# 20. Alliance System
+
+Countries can create alliances.
+
+Alliance properties:
+
+* Members
+* Leader
+* Shared resources
+* Military commitment
+* Trust
+* Shared enemies
+
+Example:
+
+```text
+🔵 NORTHERN ALLIANCE
+
+🇺🇸 🇬🇧 🇫🇷 🇨🇦 🇯🇵
+```
+
+Alliances should physically cluster their flags.
+
+---
+
+# 21. Betrayal System
+
+Alliances should not be permanent.
+
+A country may:
+
+* Leave
+* Betray
+* Switch sides
+* Secretly negotiate
+* Sign a separate peace
+
+Rare betrayal events should create major stories.
+
+Example:
+
+> 🚨 ALLIANCE BETRAYAL
+
+> 🇦🇺 HAS LEFT THE NORTHERN ALLIANCE
+
+---
+
+# 22. Economy System
+
+Each country has:
+
+* GDP
+* Income
+* Expenses
+* Trade
+* Resource production
+* Industrial capacity
+* Debt
+* Economic stability
+
+War impacts the economy.
+
+Peace enables recovery.
+
+---
+
+# 23. Resource System
+
+Resources can include:
+
+* Energy
+* Food
+* Metals
+* Rare minerals
+* Technology
+* Strategic resources
+
+Resource locations create geopolitical conflicts.
+
+---
+
+# 24. Technology System
+
+Technology progresses over time.
+
+Possible eras:
+
+### Era 1
+
+Ancient
+
+### Era 2
+
+Industrial
+
+### Era 3
+
+Modern
+
+### Era 4
+
+Advanced
+
+### Era 5
+
+Future
+
+### Era 6
+
+Space
+
+Technology influences visual events and national capabilities.
+
+---
+
+# 25. Event Engine
+
+The event engine is the heart of the entertainment system.
+
+Events are categorized by rarity.
+
+## Common
+
+* Trade deal
+* Economic growth
+* Minor border dispute
+* Election
+* Technology discovery
+
+## Uncommon
+
+* Alliance
+* Leadership change
+* Economic crisis
+* Major rebellion
+
+## Rare
+
+* Surprise war
+* Major betrayal
+* Superpower collapse
+* Massive alliance
+
+## Legendary
+
+* Global conflict
+* Alien contact
+* Unknown object
+* Civilization transformation
+* World reset
+
+---
+
+# 26. Event Rarity
+
+Example configuration:
+
+```text
+Common       70%
+Uncommon     20%
+Rare          8%
+Legendary     2%
+```
+
+These values must be configurable.
+
+The system should prevent legendary events from occurring too frequently.
+
+---
+
+# 27. Event Chain System
+
+Events must create consequences.
+
+Example:
+
+```text
+Resource discovered
+↓
+Trade dispute
+↓
+Diplomatic crisis
+↓
+Military buildup
+↓
+Alliance formation
+↓
+War declaration
+↓
+Battle
+↓
+Economic collapse
+↓
+Leadership change
+↓
+Peace treaty
+```
+
+This creates emergent narratives.
+
+---
+
+# 28. Mystery Events
+
+Some events should not be explained immediately.
+
+Example:
+
+> ❓ UNKNOWN SIGNAL DETECTED
+
+Countdown:
+
+`03:42`
+
+Then:
+
+> SIGNAL ORIGIN: UNKNOWN
+
+Later:
+
+> 🚨 SECOND SIGNAL DETECTED
+
+Eventually the mystery resolves.
+
+This creates long-term retention.
+
+---
+
+# 29. Unknown Object System
+
+Occasionally an object appears in orbit.
+
+Possible identities:
+
+* Satellite
+* Meteor
+* Spacecraft
+* Resource
+* Alien object
+* Anomaly
+
+Its identity is revealed gradually.
+
+---
+
+# 30. World Crisis System
+
+Rarely, the simulation enters a global crisis.
+
+Examples:
+
+* Global economic crash
+* Worldwide drought
+* Meteor
+* Pandemic-like fictional event
+* Massive storm
+* Global energy shortage
+* Unknown anomaly
+
+The entire world reacts.
+
+---
+
+# 31. Viewer Participation
+
+Viewers should influence the simulation without being able to destroy it.
+
+Possible commands:
+
+```text
+!vote USA
+!vote CHINA
+!support INDIA
+!join BLUE
+!predict WAR
+!predict PEACE
+!name
+!event
+```
+
+Viewer actions are aggregated.
+
+The simulation remains authoritative.
+
+---
+
+# 32. Viewer Prediction System
+
+Before major events:
+
+> WHAT HAPPENS NEXT?
+
+Options:
+
+🅰️ WAR
+
+🅱️ PEACE
+
+🅲️ ALLIANCE
+
+🅳️ SURPRISE
+
+Viewer predictions can earn non-monetary points.
+
+---
+
+# 33. Viewer Reputation
+
+Every viewer can have a persistent profile.
+
+Example:
+
+```text
+WORLD CITIZEN
+
+#48291
+
+Events witnessed: 1,284
+Predictions: 492
+Correct: 317
+Rare events witnessed: 12
+```
+
+This encourages returning viewers.
+
+---
+
+# 34. Viewer Achievements
+
+Examples:
+
+* First Battle Witness
+* First War Witness
+* Alliance Witness
+* Superpower Collapse Witness
+* Legendary Event Witness
+* 10-Hour Viewer
+* 100-Hour Viewer
+* Prediction Master
+
+---
+
+# 35. Stream Layout
+
+The primary output must be 9:16.
+
+Recommended resolution:
+
+**1080 × 1920**
+
+Alternative:
+
+**720 × 1280**
+
+---
+
+# 36. Vertical UI Architecture
+
+## Top
+
+Brand:
+
+> 🌍 WORLD ORBIT
+
+Status:
+
+> 🔴 LIVE
+
+---
+
+## Center
+
+70–75% of the screen:
+
+**Main simulation**
+
+Earth + orbital flags + active events.
+
+---
+
+## Lower Section
+
+Current event:
+
+> ⚔️ WAR DECLARED
+
+---
+
+## Bottom
+
+Dynamic statistics:
+
+* World Power
+* Current Conflict
+* Next Event
+* Viewer Count
+* World Day
+
+---
+
+# 37. Camera Director
+
+The stream should automatically decide what to show.
+
+Camera modes:
+
+### Orbit View
+
+Normal world view.
+
+### Conflict View
+
+Zoom into two countries.
+
+### Battle View
+
+Follow a battlefield.
+
+### Leaderboard View
+
+Show power rankings.
+
+### Mystery View
+
+Focus on unknown event.
+
+### Celebration View
+
+Show major victory.
+
+---
+
+# 38. Intelligent Camera Selection
+
+The camera should calculate an event score.
+
+Example:
+
+```text
+Event Score =
+Importance
+× Viewer Interest
+× Rarity
+× Escalation
+```
+
+Highest-scoring event becomes the camera target.
+
+This prevents boring static footage.
+
+---
+
+# 39. Cinematic Transitions
+
+Avoid abrupt screen changes.
+
+Use:
+
+* Zoom
+* Orbit camera movement
+* Focus effects
+* Particle bursts
+* Slow motion
+* Camera shake for major events
+* Light pulses
+* Screen-wide notifications
+
+---
+
+# 40. Audio System
+
+The simulation should have adaptive audio.
+
+Normal:
+
+* Ambient atmosphere
+* Subtle pulses
+
+Tension:
+
+* Low-frequency tension
+* Faster rhythm
+
+War:
+
+* Cinematic percussion
+
+Victory:
+
+* Short celebration
+
+Mystery:
+
+* Suspense
+
+Legendary event:
+
+* Major audio sting
+
+Audio must never become repetitive enough to annoy long-term viewers.
+
+---
+
+# 41. Music Rotation
+
+Use a large pool of royalty-free/licensed tracks.
+
+Categories:
+
+* Ambient
+* Tension
+* Battle
+* Mystery
+* Victory
+* Emotional
+* Futuristic
+
+Tracks should rotate automatically.
+
+---
+
+# 42. Visual Effects
+
+Use effects sparingly.
+
+Examples:
+
+* Flag glow
+* Energy trails
+* Orbital particles
+* Explosions
+* Shockwaves
+* Lightning
+* Fog
+* Stars
+* Map pulses
+* Connection beams
+
+The UI must remain readable.
+
+---
+
+# 43. Live News Feed
+
+A dynamic news ticker creates context.
+
+Examples:
+
+> 🔴 BREAKING: 🇨🇳 HAS DECLARED WAR ON 🇯🇵
+
+> 🟢 UPDATE: 🇮🇳 JOINS NORTHERN ALLIANCE
+
+> 💰 ECONOMIC BOOM IN 🇧🇷
+
+> 🚨 UNKNOWN OBJECT ENTERING ORBIT
+
+The news system should generate short, dramatic headlines.
+
+---
+
+# 44. World Timeline
+
+The simulation stores its history.
+
+Example:
+
+```text
+WORLD DAY 183
+
+08:31 — 🇫🇷 Alliance formed
+09:17 — 🇨🇳 Economic boom
+10:03 — Border crisis
+10:14 — War declared
+11:42 — Capital captured
+12:08 — Peace treaty
+```
+
+This enables historical storytelling.
+
+---
+
+# 45. World Seasons
+
+The world can operate in seasons.
+
+Example:
+
+**Season 1 — Rise of Nations**
+
+**Season 2 — Age of Alliances**
+
+**Season 3 — World War**
+
+**Season 4 — Space Age**
+
+Season changes can happen after major milestones.
+
+---
+
+# 46. World Reset
+
+The simulation should NOT reset frequently.
+
+Instead, allow major eras to conclude.
+
+A reset should only happen after:
+
+* Civilization collapse
+* Global event
+* Scheduled season finale
+* Admin action
+
+Previous worlds should remain archived.
+
+---
+
+# 47. Replay System
+
+Every event should be recorded.
+
+The system should support:
+
+* Replay
+* Timeline scrubbing
+* Event history
+* Battle replay
+* World-state snapshots
+
+This is important for generating YouTube clips.
+
+---
+
+# 48. Automatic Shorts Generator
+
+Major events should automatically generate short-form content.
+
+Example:
+
+**EVENT**
+
+> 🇺🇸 vs 🇨🇳 — WAR DECLARED
+
+The system generates a 20–60 second vertical clip containing:
+
+* Setup
+* Tension
+* Event
+* Outcome
+* Statistics
+
+This can become a content-generation pipeline.
+
+---
+
+# 49. Viral Clip Detection
+
+Score events based on:
+
+* Rarity
+* Duration
+* Viewer activity
+* Chat activity
+* Conflict intensity
+* Power change
+* Unexpectedness
+
+High-scoring events become recommended clips.
+
+---
+
+# 50. Stream Health
+
+The system should monitor:
+
+* Simulation FPS
+* Render FPS
+* CPU
+* GPU
+* Memory
+* Event queue
+* WebSocket connections
+* Stream encoder
+* RTMP status
+
+---
+
+# 51. Simulation Architecture
+
+Recommended architecture:
+
+```text
+┌────────────────────┐
+│  Simulation Engine │
+└─────────┬──────────┘
+│
+┌─────────────────────┼─────────────────────┐
+↓                     ↓                     ↓
+World Engine         Diplomacy Engine       Event Engine
+↓                     ↓                     ↓
+Economy Engine        War Engine            Story Engine
+↓                     ↓                     ↓
+└─────────────────────┼─────────────────────┘
+↓
+Persistent State
+↓
+Real-Time Event Bus
+↓
+┌───────────────────┼───────────────────┐
+↓                   ↓                   ↓
+Web Viewer         Stream Renderer      Admin Panel
+↓
+OBS/FFmpeg
+↓
+YouTube Live
+```
+
+---
+
+# 52. Recommended Technology Stack
+
+## Frontend Simulation
+
+Recommended:
+
+**React + TypeScript**
+
+UI layer:
+
+**Next.js**
+
+Rendering:
+
+**PixiJS** or **WebGL**
+
+For a large number of animated objects, prefer GPU-based rendering.
+
+---
+
+# 53. Rendering Engine
+
+The simulation renderer should be independent from the web dashboard.
+
+Possible architecture:
+
+```text
+Simulation State
+↓
+Rendering Adapter
+↓
+PixiJS/WebGL
+↓
+Canvas 1080x1920
+```
+
+This allows the same world state to feed:
+
+* Browser viewer
+* Stream renderer
+* Replay system
+* Screenshots
+* Short-form video generator
+
+---
+
+# 54. Backend
+
+Recommended:
+
+**Node.js + TypeScript**
+
+Responsibilities:
+
+* Simulation orchestration
+* Event processing
+* API
+* WebSockets
+* Viewer commands
+* Authentication
+* Admin operations
+
+---
+
+# 55. Database
+
+Recommended:
+
+**PostgreSQL**
+
+Store:
+
+* Countries
+* World states
+* Events
+* Wars
+* Battles
+* Alliances
+* Relationships
+* Viewers
+* Predictions
+* Achievements
+* Historical snapshots
+
+---
+
+# 56. Real-Time Infrastructure
+
+Use:
+
+**Redis**
+
+For:
+
+* Event queues
+* Pub/sub
+* Rate limits
+* Temporary state
+* Viewer counters
+* Stream synchronization
+
+WebSocket/SSE layer distributes live events.
+
+---
+
+# 57. Simulation Tick
+
+Avoid running every expensive calculation every frame.
+
+Separate:
+
+### Render Tick
+
+30–60 FPS.
+
+### Simulation Tick
+
+1–10 updates per second.
+
+### Strategic Tick
+
+Every 5–30 seconds.
+
+### Major Event Evaluation
+
+Every 10–60 seconds.
+
+### Economic Update
+
+Every few seconds/minutes.
+
+This dramatically reduces CPU usage.
+
+---
+
+# 58. Deterministic Simulation
+
+The simulation should support seeded randomness.
+
+Each world receives:
+
+```text
+WORLD SEED
+```
+
+This allows:
+
+* Replays
+* Debugging
+* Reproducing events
+* Testing
+* Historical reconstruction
+
+---
+
+# 59. State Persistence
+
+Save periodic snapshots.
+
+Example:
+
+```text
+Snapshot #18291
+World Day: 183
+Timestamp: ...
+```
+
+If the server crashes, WORLD ORBIT resumes from the latest valid snapshot.
+
+---
+
+# 60. Event Sourcing
+
+Major events should be immutable.
+
+Example:
+
+```text
+EVENT_ID
+WORLD_ID
+TIMESTAMP
+TYPE
+ACTOR
+TARGET
+CAUSE
+CONSEQUENCES
+```
+
+This allows the entire world history to be reconstructed.
+
+---
+
+# 61. Anti-Boring Engine
+
+The system should continuously evaluate viewer-facing activity.
+
+If nothing interesting has happened for too long:
+
+Trigger a controlled event.
+
+Examples:
+
+* Diplomatic meeting
+* Resource discovery
+* Minor conflict
+* Trade agreement
+* Exploration
+* Technology discovery
+
+Do not randomly trigger massive wars just to create activity.
+
+The system should maintain **controlled unpredictability**.
+
+---
+
+# 62. Retention Engine
+
+Define a target rhythm.
+
+### Every 5–15 seconds
+
+Small visual changes.
+
+### Every 30–90 seconds
+
+Minor event.
+
+### Every 2–5 minutes
+
+Interesting event.
+
+### Every 10–30 minutes
+
+Major story event.
+
+### Every 1–3 hours
+
+Rare event.
+
+### Every 6–24 hours
+
+Legendary event or major world development.
+
+These values should be configurable and tuned using analytics.
+
+---
+
+# 63. Suspense Engine
+
+Before important events, create anticipation.
+
+Example:
+
+```text
+TENSION
+████████████████░░ 84%
+
+⚠️ ESCALATION DETECTED
+
+ESTIMATED EVENT:
+00:41
+```
+
+Then gradually increase visual/audio intensity.
+
+---
+
+# 64. Viewer Retention States
+
+The system should optimize for three types of viewers.
+
+### New Viewer
+
+Needs immediate context.
+
+### Returning Viewer
+
+Needs to see what's changed.
+
+### Long-Term Viewer
+
+Needs persistent characters, history and achievements.
+
+---
+
+# 65. Web Viewer Page
+
+The website can expose the same simulation.
+
+Features:
+
+* Full-screen simulation
+* Current event
+* Country rankings
+* World map
+* Active wars
+* Timeline
+* Country profiles
+* Prediction system
+* Viewer identity
+* Achievements
+
+---
+
+# 66. Country Profile
+
+Clicking a flag opens:
+
+```text
+🇮🇳 INDIA
+
+POWER: 79
+
+Population: 1.2B
+Economy: 82
+Military: 76
+Technology: 73
+Stability: 81
+
+ALLIES
+🇫🇷 🇯🇵
+
+RIVALS
+🇨🇳
+
+CURRENT STATUS
+Peace
+```
+
+---
+
+# 67. War Profile
+
+```text
+⚔️ WAR OF THE EAST
+
+🇨🇳 vs 🇯🇵
+
+Duration: 04:32:18
+
+Territory:
+🇨🇳 +7%
+🇯🇵 -7%
+
+Battles: 17
+
+Winner probability:
+🇨🇳 61%
+🇯🇵 39%
+```
+
+---
+
+# 68. Admin Dashboard
+
+Admin should be able to see:
+
+* World status
+* Active events
+* Countries
+* Wars
+* Viewer count
+* Stream status
+* Simulation health
+* CPU/GPU
+* Event queue
+* Error logs
+
+---
+
+# 69. Admin Controls
+
+Admin can:
+
+* Pause simulation
+* Resume simulation
+* Trigger event
+* Create alliance
+* Force war
+* Adjust country power
+* Change event probabilities
+* Change simulation speed
+* Restart world
+* Create snapshot
+* Restore snapshot
+
+These controls should be protected and audited.
+
+---
+
+# 70. Simulation Speed
+
+Admin/debug modes:
+
+* 0.25×
+* 0.5×
+* 1×
+* 2×
+* 5×
+* 10×
+* 100×
+
+Useful for testing and creating historical replays.
+
+---
+
+# 71. Analytics
+
+Track:
+
+### Viewer Metrics
+
+* Concurrent viewers
+* Average watch duration
+* Returning viewers
+* Peak viewers
+* Viewer drop-off
+
+### Event Metrics
+
+* Events witnessed
+* Event retention
+* Most successful event types
+* Chat activity per event
+* Predictions per event
+
+### Simulation Metrics
+
+* Wars/day
+* Alliances/day
+* Average war duration
+* Average event frequency
+* Power transitions
+* Country survival
+
+---
+
+# 72. Retention Analytics
+
+For every major event, record:
+
+```text
+VIEWERS BEFORE
+VIEWERS DURING
+VIEWERS AFTER
+```
+
+Then calculate:
+
+**Event Retention Score**
+
+This tells you which events actually make people stay.
+
+---
+
+# 73. A/B Testing
+
+Test:
+
+* Event frequency
+* Countdown duration
+* UI placement
+* Audio intensity
+* Flag size
+* Camera zoom
+* News headline style
+* Prediction timing
+
+Optimize based on actual watch behavior.
+
+---
+
+# 74. Content Generation
+
+The system should automatically create:
+
+### Daily Recap
+
+> "The 5 biggest events in World Orbit today."
+
+### War Recap
+
+> "The 47-minute Battle of River Gate."
+
+### Country Story
+
+> "How 🇮🇳 became the world's strongest nation."
+
+### Unexpected Event
+
+> "You won't believe what happened at World Day 183."
+
+These become YouTube Shorts, TikToks and other social content.
+
+---
+
+# 75. Safety & Platform Considerations
+
+The simulation should clearly communicate that it is fictional.
+
+Use:
+
+> **FICTIONAL SIMULATION**
+
+Avoid presenting generated events as real-world news.
+
+The UI should distinguish:
+
+**REAL COUNTRY NAMES/FLAGS**
+
+from:
+
+**SIMULATED EVENTS**
+
+The system should not attempt to predict or present real-world military outcomes as factual forecasts.
+
+---
+
+# 76. Monetization
+
+Potential options:
+
+## YouTube
+
+Primary revenue source.
+
+## Website
+
+Optional:
+
+* Ads
+* Premium spectator mode
+* Cosmetic profile features
+* Supporter badges
+
+## Community
+
+Supporter identity:
+
+> WORLD ORBIT CITIZEN
+
+Avoid pay-to-win mechanics that allow viewers to dominate the simulation.
+
+---
+
+# 77. Technical Non-Functional Requirements
+
+## Availability
+
+Target:
+
+**99.9% simulation uptime**
+
+---
+
+## Performance
+
+Target:
+
+* 60 FPS local renderer where hardware allows
+* 30 FPS minimum streaming render
+* <100ms real-time event propagation under normal load
+
+---
+
+## Recovery
+
+If renderer crashes:
+
+**Automatically restart.**
+
+If simulation crashes:
+
+**Restore latest snapshot.**
+
+If stream connection fails:
+
+**Automatically reconnect.**
+
+---
+
+# 78. Scalability
+
+Initial target:
+
+**20–50 countries**
+
+Then:
+
+**100+ countries**
+
+Simulation architecture should support thousands of entities internally, even if only the most important countries are rendered prominently.
+
+---
+
+# 79. MVP
+
+The first version should NOT attempt everything.
+
+## MVP Features
+
+### World
+
+* 20 countries
+* Flags
+* 3 orbital rings
+* Central Earth
+* Basic physics
+
+### Simulation
+
+* Power
+* Economy
+* Diplomacy
+* Tension
+* Alliances
+* War
+* Battle
+* Territory score
+
+### Events
+
+* Trade
+* Crisis
+* Alliance
+* War
+* Victory
+* Defeat
+* Economic boom
+* Economic collapse
+
+### Broadcast
+
+* 1080×1920
+* Automatic camera
+* News ticker
+* Event overlay
+* Audio
+* OBS/FFmpeg integration
+
+### Web
+
+* Live simulation
+* Country rankings
+* Active wars
+* Event timeline
+
+---
+
+# 80. Phase 2
+
+Add:
+
+* Commander personalities
+* Event chains
+* Viewer predictions
+* Viewer profiles
+* Achievements
+* Chat commands
+* Better battle visualization
+* Country history
+* Replay system
+
+---
+
+# 81. Phase 3
+
+Add:
+
+* Rare events
+* Mystery system
+* Unknown objects
+* Technology evolution
+* Historical eras
+* Automatic Shorts generation
+* AI-generated event narration
+* Advanced camera director
+
+---
+
+# 82. Phase 4
+
+Add:
+
+* Multiple worlds
+* Seasonal worlds
+* Community voting
+* Viewer-created countries
+* Global leaderboard
+* Persistent viewer reputation
+* Automated YouTube clip pipeline
+* Multi-platform streaming
+
+---
+
+# 83. Phase 5 — Advanced AI
+
+AI commanders can receive:
+
+* World state
+* Historical memory
+* Strategic goals
+* Personality
+* Current relationships
+
+They then propose actions.
+
+However, the simulation should remain **rule-governed**.
+
+AI should not directly control arbitrary game state.
+
+Architecture:
+
+```text
+AI Decision
+↓
+Decision Validator
+↓
+Simulation Rules
+↓
+Accepted Action
+↓
+World State
+```
+
+This prevents unpredictable or invalid behavior.
+
+---
+
+# 84. Core Database Entities
+
+Minimum entities:
+
+```text
+World
+Country
+CountryState
+CountryRelationship
+Alliance
+War
+Battle
+Commander
+Event
+EventChain
+WorldSnapshot
+Territory
+Resource
+Technology
+Viewer
+ViewerPrediction
+ViewerAchievement
+StreamSession
+Clip
+AuditLog
+```
+
+---
+
+# 85. Core APIs
+
+Example API structure:
+
+```text
+GET /api/world
+GET /api/world/state
+GET /api/world/events
+GET /api/world/timeline
+
+GET /api/countries
+GET /api/countries/:id
+
+GET /api/wars
+GET /api/wars/:id
+
+GET /api/alliances
+GET /api/rankings
+
+POST /api/predictions
+POST /api/viewer/actions
+
+GET /api/viewer/profile
+GET /api/viewer/achievements
+```
+
+Admin:
+
+```text
+POST /api/admin/events
+POST /api/admin/world/pause
+POST /api/admin/world/resume
+POST /api/admin/world/speed
+POST /api/admin/world/snapshot
+POST /api/admin/world/restore
+```
+
+---
+
+# 86. Event Schema
+
+Conceptually:
+
+```text
+Event
+├── id
+├── worldId
+├── type
+├── rarity
+├── timestamp
+├── actors
+├── targets
+├── cause
+├── narrative
+├── consequences
+├── visualProfile
+├── audioProfile
+└── duration
+```
+
+---
+
+# 87. Visual Design Language
+
+The interface should feel:
+
+**Futuristic + Cinematic + Minimal + Competitive**
+
+Avoid making it look like a spreadsheet.
+
+Primary visual hierarchy:
+
+1. Current event
+2. Flags
+3. Conflict
+4. World state
+5. Statistics
+6. Historical information
+
+---
+
+# 88. Color Semantics
+
+Use consistent semantic colors:
+
+**Green:** Peace / positive
+
+**Yellow:** Tension
+
+**Orange:** Crisis
+
+**Red:** War
+
+**Blue:** Alliance
+
+**Purple:** Mystery
+
+**White:** Neutral
+
+---
+
+# 89. Flag Animation Rules
+
+Flags should have:
+
+### Idle
+
+Soft bounce.
+
+### Selected
+
+Glow.
+
+### Tension
+
+Rapid pulse.
+
+### War
+
+Aggressive shake/orbit.
+
+### Victory
+
+Expansion + glow.
+
+### Defeat
+
+Shrink + fade.
+
+### Alliance
+
+Flags cluster.
+
+### Collapse
+
+Flag falls toward outer orbit.
+
+---
+
+# 90. Signature Moment
+
+WORLD ORBIT needs a recognizable event sequence.
+
+When a major war begins:
+
+**STEP 1**
+
+All flags slow down.
+
+**STEP 2**
+
+The two involved flags accelerate.
+
+**STEP 3**
+
+The camera zooms in.
+
+**STEP 4**
+
+Background dims.
+
+**STEP 5**
+
+Tension meter appears.
+
+**STEP 6**
+
+Countdown reaches zero.
+
+**STEP 7**
+
+Massive:
+
+# ⚔️ WAR DECLARED
+
+**STEP 8**
+
+Battle animation begins.
+
+**STEP 9**
+
+Camera follows the conflict.
+
+**STEP 10**
+
+Result changes the world.
+
+This becomes the visual identity of the channel.
+
+---
+
+# 91. The Addictive Loop
+
+The entire product should optimize this loop:
+
+```text
+SEE
+↓
+NOTICE
+↓
+WONDER
+↓
+PREDICT
+↓
+WAIT
+↓
+EVENT
+↓
+REACTION
+↓
+CONSEQUENCE
+↓
+NEW CONFLICT
+↓
+WAIT AGAIN
+```
+
+This is more important than adding hundreds of features.
+
+---
+
+# 92. Example 30-Minute Story
+
+### 00:00
+
+Normal orbit.
+
+### 03:21
+
+🇨🇳 discovers rare resource.
+
+### 05:17
+
+🇯🇵 demands trade access.
+
+### 07:02
+
+🇨🇳 refuses.
+
+### 09:31
+
+Tension reaches 63%.
+
+### 12:42
+
+🇺🇸 supports 🇯🇵.
+
+### 14:05
+
+🇨🇳 forms alliance with 🇷🇺.
+
+### 16:20
+
+Tension reaches 91%.
+
+### 18:00
+
+Collision event.
+
+### 18:30
+
+⚔️ WAR DECLARED.
+
+### 20:00
+
+Battle begins.
+
+### 23:17
+
+🇯🇵 captures strategic territory.
+
+### 26:04
+
+🇷🇺 launches counterattack.
+
+### 28:31
+
+Unexpected ceasefire proposal.
+
+### 30:00
+
+Audience prediction:
+
+> WAR CONTINUES OR PEACE?
+
+The next story begins.
+
+---
+
+# 93. Success Metrics
+
+The primary success metric is not merely concurrent viewers.
+
+## North Star Metric
+
+**Average Watch Duration per Viewer**
+
+Secondary:
+
+* Peak concurrent viewers
+* Returning viewers
+* 5-minute retention
+* 15-minute retention
+* Event retention
+* Chat participation
+* Predictions/viewer
+* Repeat visits
+* Clip generation rate
+* Clip views
+
+---
+
+# 94. Initial Success Targets
+
+For an early test stream:
+
+### Technical
+
+* 24-hour continuous operation
+* <1% simulation downtime
+* Stable 30 FPS broadcast
+* Automatic recovery
+
+### Engagement
+
+Target:
+
+* Viewers understand the simulation within 5 seconds
+* Major event every 5–15 minutes
+* At least one strong story arc per hour
+* Viewers can identify active conflict without reading documentation
+
+These are initial product targets, not guaranteed YouTube outcomes.
+
+---
+
+# 95. Biggest Product Risks
+
+## Risk 1 — Boring Simulation
+
+Solution:
+
+Event pacing + camera director + story chains.
+
+## Risk 2 — Repetitive Battles
+
+Solution:
+
+Different commanders, objectives, terrain and consequences.
+
+## Risk 3 — Too Much UI
+
+Solution:
+
+Keep the center visually dominant.
+
+## Risk 4 — Randomness Feels Meaningless
+
+Solution:
+
+Causal event chains.
+
+## Risk 5 — Viewer Influence Breaks Simulation
+
+Solution:
+
+Aggregate and validate viewer actions.
+
+## Risk 6 — Stream Looks Like a Screensaver
+
+Solution:
+
+Cinematic camera + event anticipation + dynamic audio.
+
+---
+
+# 96. MVP Definition of Done
+
+WORLD ORBIT MVP is complete when:
+
+* 20 countries can run continuously.
+* Flags orbit dynamically.
+* Countries have power values.
+* Diplomacy changes over time.
+* Tension increases/decreases.
+* Alliances can form.
+* Wars can begin/end.
+* Battles can change country power.
+* Events generate consequences.
+* The simulation persists through restart.
+* The renderer outputs 1080×1920.
+* Automatic camera follows major events.
+* News ticker reports simulation events.
+* Audio reacts to event states.
+* Stream can run continuously through OBS/FFmpeg.
+* Admin can monitor and control the simulation.
+* A complete world timeline can be replayed.
+
+---
+
+# 97. Recommended Development Order
+
+## Phase 0 — Prototype
+
+Build only:
+
+**Earth + 20 flags + orbit physics**
+
+Goal:
+
+Make the movement beautiful.
+
+---
+
+## Phase 1 — Simulation Core
+
+Add:
+
+* Country state
+* Power
+* Economy
+* Diplomacy
+* Relationships
+
+---
+
+## Phase 2 — War
+
+Add:
+
+* Tension
+* Conflict
+* War
+* Battles
+* Victory
+* Defeat
+
+---
+
+## Phase 3 — Story Engine
+
+Add:
+
+* Event system
+* Event chains
+* Rare events
+* Mystery events
+* Consequences
+
+---
+
+## Phase 4 — Broadcast Engine
+
+Add:
+
+* Camera director
+* 9:16 compositor
+* News feed
+* Audio
+* Stream output
+
+---
+
+## Phase 5 — Viewer Interaction
+
+Add:
+
+* Predictions
+* Chat commands
+* Viewer identity
+* Achievements
+
+---
+
+## Phase 6 — Growth Engine
+
+Add:
+
+* Automatic Shorts
+* Event clipping
+* Daily recaps
+* Historical stories
+* Analytics
+
+---
+
+# 98. Ultimate Product
+
+The final version should feel like:
+
+> **A living television channel generated by a game that never stops playing.**
+
+A viewer shouldn't think:
+
+> "I'm watching a simulation."
+
+They should think:
+
+> **"I just joined the middle of something."**
+
+That distinction is the foundation of WORLD ORBIT.
+
+---
+
+# 99. Final Product Identity
+
+## Name
+
+**WORLD ORBIT**
+
+## Alternative Names
+
+* WORLD WAR LIVE
+* ORBITAL WORLD
+* WORLD AT WAR 24/7
+* GLOBAL ORBIT
+* NATIONS IN MOTION
+* WAR OF FLAGS
+* EARTH LIVE
+* THE WORLD ENGINE
+
+## Recommended
+
+# 🌍 WORLD ORBIT
+
+### Tagline
+
+**"The world never stops."**
+
+Alternative:
+
+**"Every flag has a story."**
+
+Alternative:
+
+**"Watch history happen."**
+
+---
+
+# 100. Product Principle
+
+The most important requirement in the entire PRD is:
+
+> **Never optimize for constant action. Optimize for anticipation.**
+
+If something explosive happens every five seconds, nothing feels special.
+
+Instead:
+
+**calm → tension → anticipation → event → consequence → calm → tension**
+
+That rhythm allows WORLD ORBIT to remain watchable for hours while still producing moments spectacular enough to become viral clips.
+
+The ultimate goal is to build not merely a simulation, but a **persistent automated entertainment engine capable of generating an endless stream of geopolitical stories.**
